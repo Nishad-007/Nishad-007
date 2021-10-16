@@ -1,5 +1,5 @@
 
-# <p style="text-align: center;">Hi there 👋</p>
+# <div align="center">Hi there 👋
 
 I'm Nishad. I basically code for *__FUN__*(except its my major too). Currently, i am learning everything which feels interesting.
 
