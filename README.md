@@ -28,7 +28,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     
 </p>
-<br />
+
 
 <img align ="left" width="40%" src="https://thumbs.gfycat.com/ThisAppropriateChameleon-size_restricted.gif" height="300px">
 
