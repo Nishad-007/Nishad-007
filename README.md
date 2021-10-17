@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishad</h1>
 
 <div align="center"><font size="2">I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font><br />
@@ -29,12 +28,12 @@
 <br/>
 
 <p align="center">
-    <a><img width ="auto" src="https://thumbs.gfycat.com/ThisAppropriateChameleon-size_restricted.gif" height="300px"/></a><br />
-    <a> <img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishad-007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="150px"/></a>
+    <br />
+    <br /><a> <img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishad-007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="150px"/></a>
     <a ><img width ="50%" src="https://github-readme-stats.vercel.app/api?username=Nishad-007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150px"/></a>
-
-
+    <a><img width ="auto" src="https://thumbs.gfycat.com/ThisAppropriateChameleon-size_restricted.gif" height="300px"/></a>
 </p>
+
 
 
 
@@ -52,4 +51,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Nishad-007">
 </a>
+
+
 
