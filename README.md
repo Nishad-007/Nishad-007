@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishad</h1>
 
-#### I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.
+#### <div align="center"><font size="1">I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font><br />
 
 <br /><a href="#"><img width="75%" height="250" src="https://thumbs.gfycat.com/UnequaledCreativeEyelashpitviper-size_restricted.gif" height="175px"/></a><br />
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
->>>📫 How to reach me **nishadnaos09@gmail.com**
+- 📫 How to reach me **nishadnaos09@gmail.com**
 
 # 🚀 Languages and Tools:
 
@@ -26,7 +26,7 @@
     
 </p>
 
-<img align ="right" width="40%" src="https://thumbs.gfycat.com/WeeklyImperturbableHart-size_restricted.gif" height="320px">
+<img align ="right" width="40%" src="https://thumbs.gfycat.com/WeeklyImperturbableHart-size_restricted.gif" height="300px">
 
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
