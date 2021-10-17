@@ -33,8 +33,8 @@
 
 
 <p align ="left">
-    <a> <img width ="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishad-007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="150px"/></a>
-    <img width ="65%" src="https://github-readme-stats.vercel.app/api?username=Nishad-007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150px"/>
+    <a> <img width ="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishad-007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="150px"/></a>
+    <img width ="55%" src="https://github-readme-stats.vercel.app/api?username=Nishad-007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150px"/>
     
 </p>
 
