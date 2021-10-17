@@ -13,9 +13,6 @@
 
 >>>📫 How to reach me **nishadnaos09@gmail.com**
 
-
-<br />
-
 # 🚀 Languages and Tools:
 
 <p> 
@@ -28,7 +25,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     
 </p>
-
 
 <img align ="left" width="40%" src="https://thumbs.gfycat.com/ThisAppropriateChameleon-size_restricted.gif" height="300px">
 
@@ -58,4 +54,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Nishad-007">
 </a>
+
+
 
