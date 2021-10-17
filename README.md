@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishad</h1>
 
-<div align="center"><font size="2">I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font><br />
+<div align="center"><font size="1">I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font><br />
 
-<br /><a href="#"><img width="100%" height="auto" src="https://thumbs.gfycat.com/UnequaledCreativeEyelashpitviper-size_restricted.gif" height="175px"/></a><br />
+<br /><a href="#"><img width="75%" height="250" src="https://thumbs.gfycat.com/UnequaledCreativeEyelashpitviper-size_restricted.gif" height="175px"/></a><br />
 
 ## 🙋‍♂️ About Me
 
@@ -27,13 +27,11 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
-    <br />
-    <br /><a> <img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishad-007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="150px"/></a>
-    <a ><img width ="50%" src="https://github-readme-stats.vercel.app/api?username=Nishad-007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150px"/></a>
-    <a><img width ="auto" src="https://thumbs.gfycat.com/ThisAppropriateChameleon-size_restricted.gif" height="300px"/></a>
+<p>
+    <a> <img align="left" width ="100" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishad-007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="150px"/></a><br/>
+    <br/><a ><img align="left" width ="100" src="https://github-readme-stats.vercel.app/api?username=Nishad-007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150px"/></a>
 </p>
-
+<a><img width ="auto" src="https://thumbs.gfycat.com/ThisAppropriateChameleon-size_restricted.gif" height="300px"/></a>
 
 
 
@@ -51,6 +49,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Nishad-007">
 </a>
-
-
 
