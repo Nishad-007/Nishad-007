@@ -4,7 +4,7 @@
 
 <br /><a href="#"><img width="75%" height="250" src="https://thumbs.gfycat.com/UnequaledCreativeEyelashpitviper-size_restricted.gif" height="175px"/></a><br />
 
-# 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -13,7 +13,7 @@
 
 >>>📫 How to reach me **nishadnaos09@gmail.com**
 
-# 🚀 Languages and Tools:
+## 🚀 Languages and Tools:
 
 <p> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
