@@ -2,7 +2,7 @@
 
 #### <div align="center"><font size="1">I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font><br />
 
-<br /><a href="#"><img align = "center" width="75%" height="250" src="https://thumbs.gfycat.com/UnequaledCreativeEyelashpitviper-size_restricted.gif" height="175px"/></a><br />
+<a href="#"><img align = "center" width="75%" height="250" src="https://thumbs.gfycat.com/UnequaledCreativeEyelashpitviper-size_restricted.gif" height="175px"/></a><br />
 
 # 🙋‍♂️ About Me
 
