@@ -22,7 +22,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
-<img align="right" width="50%" src="https://thumbs.gfycat.com/ThisAppropriateChameleon-size_restricted.gif" height="300px">
+
 
 
 
@@ -32,9 +32,8 @@
 <p align ="left">
     <a> <img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishad-007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" height="150px"/></a>
     <img width ="50%" src="https://github-readme-stats.vercel.app/api?username=Nishad-007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150px"/>
+    <a><img align="right" width="50%" src="https://thumbs.gfycat.com/ThisAppropriateChameleon-size_restricted.gif" height="300px"></a>
 </p>
-
-
 
 
 ## Connect with me:
@@ -51,3 +50,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Nishad-007">
 </a>
+
+
