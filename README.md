@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishad</h1>
 
-<p align="center">
-    <a><font size="3">I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font></a>
-</p>
+#### I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font></a>
+
 <br /><a href="#"><img width="75%" height="250" src="https://thumbs.gfycat.com/UnequaledCreativeEyelashpitviper-size_restricted.gif" height="175px"/></a><br />
 
 # 🙋‍♂️ About Me
