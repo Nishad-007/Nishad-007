@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nishad</h1>
 
-<div align="center"><font size="1">I'm 3rd year student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font><br />
+<div align="center"><font size="1">I'm student who is basically coding for FUN(except its my major too). Currently,Learning everything on which i get my hands on and feels interesting.</font><br />
 
 <br /><a href="#"><img width="75%" height="250" src="https://thumbs.gfycat.com/UnequaledCreativeEyelashpitviper-size_restricted.gif" height="175px"/></a><br />
 
@@ -16,12 +16,9 @@
 # 🚀 Languages and Tools:
 
 <p> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
     <a href="https://icons8.com/icon/40669/c++"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></a> 
-    <a href="https://icons8.com/icon/pCvIfmctRaY8/flutter"><img src="https://img.icons8.com/fluency/48/000000/flutter.png"/></a>  
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a><br />
     
 </p>
